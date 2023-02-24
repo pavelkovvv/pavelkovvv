@@ -24,3 +24,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavelkovvv&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavelkovvv&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavelkovvv&theme=2077&utcOffset=3)
+
+[![wakatime](https://wakatime.com/badge/user/885b073e-039a-464e-83fa-c85e550c4937.svg)](https://wakatime.com/@885b073e-039a-464e-83fa-c85e550c4937)
