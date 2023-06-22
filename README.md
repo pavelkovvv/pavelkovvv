@@ -13,12 +13,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/420915974150160388/)
 
 ## Stats
-![Codewars](https://www.codewars.com/users/pavelkovvv/badges/large)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelkovvv&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavelkovvv&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavelkovvv&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavelkovvv&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavelkovvv&theme=2077&utcOffset=3)
+
+![Codewars](https://www.codewars.com/users/pavelkovvv/badges/large)
 
 [![wakatime](https://wakatime.com/badge/user/885b073e-039a-464e-83fa-c85e550c4937.svg)](https://wakatime.com/@885b073e-039a-464e-83fa-c85e550c4937)
